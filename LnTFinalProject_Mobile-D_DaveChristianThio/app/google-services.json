@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614564699731",
+    "firebase_url": "https://dave-bimbel-matematika-default-rtdb.firebaseio.com",
+    "project_id": "dave-bimbel-matematika",
+    "storage_bucket": "dave-bimbel-matematika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614564699731:android:16163b7e71f380c555b0a6",
+        "android_client_info": {
+          "package_name": "com.example.bimbel_matematika_pak_raja_dave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614564699731-4mein8036fjv7dqgcthf9i0hkm55s7rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIX3MP5KCmBe_J2g6N3KEyKhu377zpya0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614564699731-4mein8036fjv7dqgcthf9i0hkm55s7rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
